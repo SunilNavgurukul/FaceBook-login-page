@@ -1,0 +1,109 @@
+body{
+	margin: 0px;
+}
+.blue_line {
+	background-color: #415e9b;
+	display: flex;
+	color: white;
+}
+.facebook_text {
+	display: flex;
+	font-size: 40px;
+	font-style: bolt;
+	justify-content: center;
+	height: 35px;
+	width: 1000px;
+	margin-top : -15px;	
+}
+.input{
+	display: flex;
+	font-size: 13px;
+}
+.Password{
+	margin-left: 10px;
+}
+.button1{
+	padding-top: 27px;
+	margin-left: 10px;
+	/*justify-content: center;*/
+}
+.button{
+	background-color: #4267b2;
+	color: white;
+
+}
+form{
+	display: flex;
+}
+.network {
+	width: 1000px;
+	font-size: 20px;
+	display: flex;
+	justify-content: flex-end;
+}
+.network p{
+	padding-right: 150px;
+	padding-top: 40px;
+	color: #2a4f71;
+}
+.xyz{
+	display: flex;
+}
+.create p{
+	font-size: 20px;
+}
+.fullName input{
+	width: 200px;
+	height: 30px;
+	padding-left: 10px;
+}
+.mobiPas input{
+	width: 420px;
+	height: 30px;
+	padding-left: 10px;
+}
+.dateofbirth{
+	display: flex;
+}
+.dateofbirth p{
+	font-size: 10px;
+	padding-left: 5px;
+	color: blue;
+}
+.dateofbirth input{
+	height: 15px;
+	/*padding-top: 5px;*/
+}
+.sex {
+	font-size: 20px;
+}
+.SignUpInfo p{
+	font-size: 15px;
+	color: grey;
+}
+.SignUpInfo input{
+	background-color: #62a350;
+	width: 150px;
+	height: 40px;
+	font-size: 25px;
+	color: white;
+}
+.language {
+	display: flex;
+	/*justify-content: center;*/
+	padding-top: 20px;
+	/*padding-right: 20px*/
+	color: blue;
+	font-size: 12px;
+}
+.space {
+	padding-right: 10px;
+}
+.language1 {
+	width: 800px;
+	justify-content: center;
+}
+.center {
+	display: flex;
+	justify-content: center;
+}
